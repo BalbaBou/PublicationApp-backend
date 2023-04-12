@@ -1,0 +1,17 @@
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Interfaces.deps.json
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Interfaces.runtimeconfig.json
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Interfaces.dll
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Interfaces.pdb
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Data.dll
+E:\work\univercity\PublicationApp\PA.Interfaces\bin\Debug\net6.0\PA.Data.pdb
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.csproj.AssemblyReference.cache
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.AssemblyInfoInputs.cache
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.AssemblyInfo.cs
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.csproj.CoreCompileInputs.cache
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.csproj.CopyComplete
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.dll
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\refint\PA.Interfaces.dll
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.pdb
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\PA.Interfaces.genruntimeconfig.cache
+E:\work\univercity\PublicationApp\PA.Interfaces\obj\Debug\net6.0\ref\PA.Interfaces.dll
