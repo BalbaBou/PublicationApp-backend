@@ -26,4 +26,8 @@
       <ProjectReference Include="..\PA.Data\PA.Data.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Models\Auth" />
+    </ItemGroup>
+
 </Project>
