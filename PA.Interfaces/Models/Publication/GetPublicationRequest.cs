@@ -3,7 +3,7 @@ using PA.Interfaces.Pagination;
 
 namespace PA.Interfaces.Models.Publication;
 
-public class GetPublicationRequest
+public class GetPublicationRequest : IPaginationRequest
 {
     public string Search { get; set; }
 
