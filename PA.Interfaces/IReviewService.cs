@@ -1,4 +1,5 @@
-﻿
+﻿using PA.Interfaces.Models;
+
 namespace PA.Interfaces;
 
 public interface IReviewService
@@ -7,7 +8,7 @@ public interface IReviewService
 
     Task<long> AddReviewAsync(long publicationId, string comment);
 
-    Task<IReadOnlyCollection<ReviewModel>> GetPublicationReviews(long publicationId);
+    //Task<IReadOnlyCollection<ReviewModel>> GetPublicationReview(long publicationId);
 
     Task RemoveReviewAsync(long reviewId);
     
