@@ -2,7 +2,7 @@
 
 namespace PA.Interfaces.Models.Review;
 
-public class Reviewer
+public class ReviewModel
 {
     public long Id { get; set; }
 

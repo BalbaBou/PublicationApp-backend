@@ -4,11 +4,12 @@ using PA.Data.Models;
 using PA.Interfaces;
 using PA.Interfaces.Enums;
 using PA.Interfaces.Exceptions;
+using PA.Interfaces.Models.Review;
 using PA.Interfaces.Models.File;
 
 namespace PA.Services;
 
-public class ReviewService: IReviewService
+public class ReviewService : IReviewService
 {
     private readonly DataContext _db;
 
@@ -35,7 +36,7 @@ public class ReviewService: IReviewService
         return review.Id;
     }
 
-    /*public async Task<IReadOnlyCollection<ReviewModel>> GetPublicationReview(long publicationId)
+    public async Task<IReadOnlyCollection<ReviewModel>> GetPublicationReview(long publicationId)
     {
         if (await _db.Publications.AllAsync(x => x.Id != publicationId))
             throw new PublicationAppException($"Publication id = {publicationId} is not exists!", EnumErrorCode.EntityIsNotFound);
@@ -55,7 +56,7 @@ public class ReviewService: IReviewService
                 }).ToArray()
             })
             .ToArrayAsync();
-    }*/
+    }
 
     public async Task RemoveReviewAsync(long reviewId)
     {
