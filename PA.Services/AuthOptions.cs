@@ -2,8 +2,9 @@
 
 public class AuthOptions
 {
+	//посмотреть DependenciesHelper (изучить с токенами)
     /*
-     public const string ISSUER = "Yaroslav"; // издатель токена
+    public const string ISSUER = "Yaroslav"; // издатель токена
 
 	public const string AUDIENCE = "Yaroslav2"; // потребитель токена
 

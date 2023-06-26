@@ -35,7 +35,7 @@ public class DepartmentService : IDepartmentService
         return department.Id;
     }
 
-    public async Task<GetDepartmentsResponse> GetAllDepartments(GetDepartmentsRequest request)
+    public async Task<GetDepartmentsResponse> GetDepartments(GetDepartmentsRequest request)
     {
         var query = request.FacultyId.HasValue
             ? _db.Departments.Where(x => x.FacultyId == request.FacultyId)

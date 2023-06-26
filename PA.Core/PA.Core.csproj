@@ -27,4 +27,8 @@
       <ProjectReference Include="..\PA.Interfaces\PA.Interfaces.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Helpers" />
+    </ItemGroup>
+
 </Project>
